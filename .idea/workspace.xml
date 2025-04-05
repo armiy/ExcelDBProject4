@@ -6,9 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="41230250-7ed7-4b45-8f46-596855161b9a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/ExcelFiles/Book1.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/ExcelFiles/Book1.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ExcelReadWrite/ExcelRead.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ExcelReadWrite/ExcelRead.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ExcelReadWrite/ExcelWrite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ExcelReadWrite/ExcelWrite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/QuerriesDB/ASelectQuery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/QuerriesDB/ASelectQuery.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +52,20 @@
       <recent name="C:\Users\armac\IdeaProjects\Mysql_Excel_Project4\src\test\ExcelFiles" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ExcelWrite">
+  <component name="RunManager" selected="Application.ASelectQuery">
+    <configuration name="ASelectQuery" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QuerriesDB.ASelectQuery" />
+      <module name="Mysql_Excel_Project4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="QuerriesDB.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ExcelRead" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ExcelReadWrite.ExcelRead" />
       <module name="Mysql_Excel_Project4" />
@@ -83,6 +94,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ASelectQuery" />
         <item itemvalue="Application.ExcelWrite" />
         <item itemvalue="Application.ExcelRead" />
       </list>
